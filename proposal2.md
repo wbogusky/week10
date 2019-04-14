@@ -1,15 +1,15 @@
-Your Project Title Here
-One-sentence summary of your project goes here; then fill out each of the following sections.
+Wearable Theremin
+By using Arduino, a speaker, and two ultrasonic sensors, a lightweight and portable version of the instrument known as the Theremin can be produced.
 
 Summary
-A paragraph or two describing what you are building for your final project.
-
-Include a discussion of how it will be interactive or responsive to the environment.
+Theremins are electronic instruments which are operated without physical contact from their player. Two antennae, one for pitch and one for volume, control a wave generator which is then amplified by a speaker. By using ultrasonic range sensors, we can take data about the distance between the sensor and an object and translate it into pitch and volume controls. My hope would be to actually attach the sensors to gloves or some other wearable structure to allow users to play the theremin on any object, mobilely.
 
 Component Parts
-Describe the components, or pieces, that make up your project.
-
-Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
+Two ultrasonic range sensors
+Two wearable structures (gloves or straps)
+Arduino and breadboard
+Speaker
+Software synthesizer / tone generator
 
 When your project is completed, you will then add the following sections:
 Timeline
