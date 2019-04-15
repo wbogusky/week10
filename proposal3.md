@@ -1,14 +1,16 @@
-# p5.js Cellular Automaton
-Using the p5 web editor to create a pixel based cellular automaton.
+# Glyph Generator
+A graphical program designed to quickly generate a set of glyphs based on flexible rules controlled by a user.
 
 ## Summary
-I have only recently heard of these programs but as I understand them they are grid based simulations of propagation based on simple rules about adjacency. I need to do more research but I think that building one of these using p5.js would be fun and engaging. I'm not sure how feasible this is, but this program would ideally allow users to input values that control the rules determining the program.
+I'm interested in writing systems. By using p5's drawing functions, I can create a program which generates combinations of marks within a set of possibilites to create a functional set of glyphs to be used in con-scripting or cryptography.
 
 ## Component Parts
 - p5.js editor program
-  - draws the cells
+  - draws a collection of glyphs
+  - saves jpgs? saves svg? saves ttf?
 - user input
-  - determines aspects of each cell's propagation
+  - control rules / potential strokes
+  - maybe include a tool to display text using the glyphs as an alphabet?
 
 
 # When your project is completed, you will then add the following sections:
@@ -30,5 +32,4 @@ Upload photos and videos of your completed final project!
 Also upload the code that makes up your project to your repository.
 
 ## References and links
-[https://p5js.org/examples/simulate-wolfram-ca.html]
 Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
